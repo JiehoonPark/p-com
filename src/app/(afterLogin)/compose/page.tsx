@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Explore() {
+export default function Compose() {
   return (
     <div>page</div>
   )
